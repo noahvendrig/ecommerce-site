@@ -1,9 +1,9 @@
 import Directory from '../../components/directory/directory.component';
 
 
-const HomePage = ({ history }) => (
+const HomePage = () => (
     <div className="homepage">
-        <Directory history={history} />
+        <Directory />
     </div>
 
 );
