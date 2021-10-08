@@ -214,10 +214,11 @@ const SHOP_DATA = [
       },
       {
         id: 31,
-        name: 'Floral T-shirt',
-        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
-        price: 20
+        name: 'Peter Tran',
+        imageUrl: 'https://static.wikia.nocookie.net/clashroyale/images/b/bd/GoblinsCard.png',
+        price: 250
       },
+      
       {
         id: 32,
         name: 'Black & White Longsleeve',
@@ -241,7 +242,13 @@ const SHOP_DATA = [
         name: 'Burgundy T-shirt',
         imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
         price: 25
-      }
+      },
+      {
+        id: 36,
+        name: 'Floral T-shirt',
+        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+        price: 20
+      },
     ]
   }
 ];
